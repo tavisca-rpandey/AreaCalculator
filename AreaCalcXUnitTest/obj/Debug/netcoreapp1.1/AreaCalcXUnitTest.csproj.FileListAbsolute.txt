@@ -1,0 +1,15 @@
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\bin\Debug\netcoreapp1.1\AreaCalcXUnitTest.deps.json
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\bin\Debug\netcoreapp1.1\AreaCalcXUnitTest.runtimeconfig.json
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\bin\Debug\netcoreapp1.1\AreaCalcXUnitTest.runtimeconfig.dev.json
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\bin\Debug\netcoreapp1.1\AreaCalcXUnitTest.dll
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\bin\Debug\netcoreapp1.1\AreaCalcXUnitTest.pdb
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\bin\Debug\netcoreapp1.1\AreaCalculator.dll
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\bin\Debug\netcoreapp1.1\AreaCalculator.pdb
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\obj\Debug\netcoreapp1.1\AreaCalcXUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\obj\Debug\netcoreapp1.1\AreaCalcXUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\obj\Debug\netcoreapp1.1\AreaCalcXUnitTest.AssemblyInfo.cs
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\obj\Debug\netcoreapp1.1\AreaCalcXUnitTest.dll
+C:\Users\rpandey\source\repos\AreaCalculator\AreaCalcXUnitTest\obj\Debug\netcoreapp1.1\AreaCalcXUnitTest.pdb
